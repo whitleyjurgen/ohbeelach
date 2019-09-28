@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rilaengoo.christopher-astfalk.de/sitemap.xml
